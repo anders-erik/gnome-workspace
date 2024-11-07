@@ -1,0 +1,8 @@
+{
+  "name": "scroll-switch-1",
+  "description": "enable shortcuts for workspace switching",
+  "uuid": "scrollswitch1@anderserik.com",
+  "shell-version": [
+    "46"
+  ]
+}
